@@ -33,30 +33,17 @@ Firewall: pfSense
 📂 Project Portfolio
 Each project below includes a detailed write-up covering the objective, environment setup, step-by-step process, and a reflection on challenges and lessons learned.
 
-Project Title
+### 📂 **Project Portfolio**
 
-Status
+Each project below includes a detailed write-up covering the objective, environment setup, step-by-step process, and a reflection on challenges and lessons learned.
 
-Skills Applied
+| Project Title | Status | Skills Applied |
+| :--- | :--- | :--- |
+| [**Project 1: Implementing and Testing a Suricata-based IDS/IPS**](projects/project_1_suricata.md) | ✅ Complete | Suricata Configuration, Packet Analysis, Network Security |
+| [**Project 2: Active Directory Lab with Attack Simulation**](projects/project_2_ad_lab.md) | ✅ Complete | System Administration, Red Teaming, Vulnerability Scanning |
+| [**Project 3: Centralized Log Analysis with Wazuh**](projects/project_3_siem_analysis.md) | ✅ Complete | SIEM, Log Ingestion, Data Visualization, Alerting |
 
-Project 1: Implementing and Testing a Suricata-based IDS/IPS/ projects/project_1_suricata.md
-
-✅ Complete
-
-Suricata Configuration, Packet Analysis, Network Security
-
-Project 2: Active Directory Lab with Attack Simulation
-
-✅ Complete
-
-System Administration, Red Teaming, Vulnerability Scanning
-
-Project 3: Centralized Log Analysis with Wazuh
-
-✅ Complete
-
-SIEM, Log Ingestion, Data Visualization, Alerting
-
+---
 🚀 What's Next
 Now that the core home lab is complete, I will continue to build my skills by tackling more advanced projects. My next steps will focus on:
 
