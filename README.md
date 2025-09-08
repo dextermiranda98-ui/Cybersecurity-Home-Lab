@@ -39,7 +39,7 @@ Status
 
 Skills Applied
 
-Project 1: Implementing and Testing a Suricata-based IDS/IPS
+Project 1: Implementing and Testing a Suricata-based IDS/IPS/ projects/project_1_suricata.md
 
 ✅ Complete
 
