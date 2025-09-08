@@ -20,15 +20,15 @@ Log Management & Analysis: Ingesting and analyzing security event logs using a S
 🛠️ Tools & Technologies
 This home lab is built using a variety of industry-standard and open-source tools to replicate a real-world network environment.
 
-Virtualization: VMware Workstation
+Virtualization: VirtualBox
 
 Operating Systems: Kali Linux, Ubuntu Server, Metasploitable 2, Windows Server 2016
 
 Security Tools: Suricata, Wireshark, Nmap, Scapy, Metasploit
 
-Firewall: pfSense
+SIEM: Wazuh
 
-SIEM: The ELK Stack (Elasticsearch, Logstash, Kibana)
+Firewall: pfSense
 
 📂 Project Portfolio
 Each project below includes a detailed write-up covering the objective, environment setup, step-by-step process, and a reflection on challenges and lessons learned.
@@ -51,7 +51,7 @@ Project 2: Active Directory Lab with Attack Simulation
 
 System Administration, Red Teaming, Vulnerability Scanning
 
-Project 3: Centralized Log Analysis with the ELK Stack
+Project 3: Centralized Log Analysis with Wazuh
 
 ✅ Complete
 
