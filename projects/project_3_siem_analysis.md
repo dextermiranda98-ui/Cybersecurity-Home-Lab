@@ -41,4 +41,5 @@ Agent Enrollment: A key challenge was ensuring a stable connection between the W
 Integrated vs. Standalone: This project provided a valuable contrast to my earlier project with Suricata. I learned that while Suricata is a powerful IDS/IPS, Wazuh offers a more comprehensive, integrated solution that includes HIDS and centralized log management, providing a broader view of security events across the network.
 
 Conclusion
+
 This project provided me with a fundamental understanding of integrated security platforms. By deploying and using Wazuh, I gained practical skills in log management, HIDS, and real-time security alerting. I am now capable of setting up a monitoring pipeline and using a SIEM to identify and respond to security incidents. This experience is a crucial step toward a career in security operations and incident response.
