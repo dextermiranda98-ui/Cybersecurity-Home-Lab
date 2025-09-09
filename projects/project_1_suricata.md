@@ -39,4 +39,5 @@ Troubleshooting Network Interfaces: My initial attempt failed because Suricata w
 Understanding Rule Management: I learned how to work with rule sets and how to strategically enable or disable rules to fine-tune the detection process. This is a critical skill for managing noisy or overly-aggressive security systems in a real-world environment.
 
 Conclusion
+
 This project was a foundational exercise in defensive security. It provided me with practical, hands-on experience in configuring and operating a crucial network security tool. I'm now confident in my ability to implement, test, and troubleshoot an IDS/IPS, a core competency for any aspiring cybersecurity analyst.
