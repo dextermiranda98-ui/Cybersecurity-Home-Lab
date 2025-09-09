@@ -40,4 +40,5 @@ Tool Complexity: Navigating Metasploit and understanding its various modules req
 Understanding AD Objects: This project provided a deep understanding of Active Directory objects (users, groups, OUs) and their relationships. I learned how permissions and group policies affect security and how attackers can abuse these relationships to escalate privileges.
 
 Conclusion
+
 This project was a crucial step in my practical education. By building a simulated AD environment, I gained hands-on experience with both defensive and offensive security concepts. I am now confident in my ability to assess and understand a Windows network, a skill that is highly sought after in the cybersecurity field.
