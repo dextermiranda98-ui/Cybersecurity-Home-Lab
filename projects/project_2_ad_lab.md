@@ -7,7 +7,7 @@ Virtualization: VirtualBox
 
 Logical Topology: A small, isolated network with a Windows Server 2016 machine acting as the Domain Controller, a Windows 10 client machine, and a Kali Linux machine for attacking.
 
-Operating Systems: Windows Server 2016, Windows 10, Kali Linux
+Operating Systems: Windows Server 2022, Windows 11, Kali Linux
 
 Key Tools:
 
