@@ -7,7 +7,7 @@ Virtualization: VirtualBox
 
 Logical Topology: An isolated network with a Windows 10 client and a Windows Server 2016 machine sending logs to a dedicated Ubuntu Server running the Wazuh Manager.
 
-Operating Systems: Windows Server 2016, Windows 10, Ubuntu Server
+Operating Systems: Windows Server 2022, Windows 11, Ubuntu Server
 
 Key Tools:
 
